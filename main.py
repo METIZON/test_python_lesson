@@ -5,7 +5,7 @@ import random
 import keyboards
 
 # Initialize your bot token obtained from @BotFather
-TOKEN = "5385126708:AAHLVLLs708YePNRDYvk6dswfd0v-qkMG84"  # 'your_telegram_bot_token_here'
+TOKEN = 'your_telegram_bot_token_here'
 
 # Initialize telebot
 bot = telebot.TeleBot(TOKEN)
